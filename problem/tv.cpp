@@ -35,7 +35,7 @@ void Tv::chandown()
 {
     if (channel > 1)
         channel--;
-    else 
+    else
         channel = maxchannel;
 }
 
@@ -57,12 +57,14 @@ void Remote::prinmode()
 {
     if (mode2 == conver)
         cout << "conver" << endl;
-    else 
-        cout <<  "norm" << endl;
+    else
+        cout << "norm" << endl;
 }
 
-void Tv::set_mode2(Remote & r)
+void Tv::set_mode2(Remote &r)
 {
     if (state == On)
         r.mode2 = (r.mode2 == r.norm) ? r.conver : r.norm;
 }
+
+// where_is_my_computer
