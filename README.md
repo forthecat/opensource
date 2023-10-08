@@ -59,7 +59,7 @@
     환경이 없었기 때문에, 게임엔진을 활용하고 훈련할 수 있도록 게임 엔진 테스트 웹을 만들면 좋을 것 같음.
 
 * * *
-##시스템 개요 그림
+## 시스템 개요 그림
 
 <img width="5000" alt="image" src="https://github.com/forthecat/opensource/assets/127604331/45effd6e-c52b-4270-a7e2-dcaa3795973e">
 
