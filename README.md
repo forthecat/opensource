@@ -95,10 +95,10 @@
     위에서 언급했던 서버와 관련된 지식을 쌓고 공부할 예정이다.
 
 * * *
-> 자료 조사 출처 : 
-> [CodeinGame] (https://www.codingame.com)
-> [Bakjoon] (https://www.acmicpc.net)
-> [Stoveindie] (https://indie.onstove.com)
+자료 조사 출처 : 
+[CodeinGame] (https://www.codingame.com)
+[Bakjoon] (https://www.acmicpc.net)
+[Stoveindie] (https://indie.onstove.com)
 
 
 
