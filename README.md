@@ -23,7 +23,7 @@
 
 > 게임 엔진 테스트 웹 인터페이스
 
-<img width="452" alt="image" src="https://github.com/forthecat/opensource/assets/127604331/5bb004df-95d5-4bc9-b51f-7282a1be7724">
+<img width="1000" alt="image" src="https://github.com/forthecat/opensource/assets/127604331/5bb004df-95d5-4bc9-b51f-7282a1be7724">
 
 ## 사례 분석
 + 사례를 찾아본 결과 강의 사이트, 커뮤니티, codeingame이라는 웹페이지의 사례로 구분할 수 있었음.
@@ -61,7 +61,7 @@
 * * *
 ##시스템 개요 그림
 
-<img width="431" alt="image" src="https://github.com/forthecat/opensource/assets/127604331/45effd6e-c52b-4270-a7e2-dcaa3795973e">
+<img width="1000" alt="image" src="https://github.com/forthecat/opensource/assets/127604331/45effd6e-c52b-4270-a7e2-dcaa3795973e">
 
 ## 필요한 기술 요소
 
